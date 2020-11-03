@@ -1,2 +1,2 @@
-# bones
-Simple Javascript library for building higher level apps on top of 
+### bones
+Simple Javascript library for use in building higher level apps 
